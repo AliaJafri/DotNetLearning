@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|c:\\users\\lenovo\\source\\repos\\crudindotnet\\crudindotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|solutionrelative:crudindotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|c:\\users\\lenovo\\source\\repos\\crudindotnet\\crudindotnet\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|solutionrelative:crudindotnet\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|c:\\users\\lenovo\\source\\repos\\crudindotnet\\crudindotnet\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|solutionrelative:crudindotnet\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|c:\\users\\lenovo\\source\\repos\\crudindotnet\\crudindotnet\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB940E-90F1-4B7B-ADD4-89C79274E97D}|CRUDindotNet\\CRUDindotNet.csproj|solutionrelative:crudindotnet\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Models\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDindotNet\\Models\\DBContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Models\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "CRUDindotNet\\Models\\DBContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:35:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDindotNet\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "CRUDindotNet\\Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:28:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDindotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\appsettings.json",
+              "RelativeToolTip": "CRUDindotNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T15:16:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRUDindotNet\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CRUDindotNet\\CRUDindotNet\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRUDindotNet\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:59:14.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
